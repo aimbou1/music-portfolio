@@ -3,7 +3,7 @@ layout: default
 headline: About
 description: Aimee Boudreau play's music!
 summary: This is a summary of Aimee's accomplishments
-featured-img: andrew-stiefel-viola.jpg
+featured-img: IMG_8798.jpeg
 permalink: /
 ---
 
