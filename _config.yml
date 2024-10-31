@@ -1,10 +1,10 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
-repository: "andrewstiefel/music-portfolio"
+title: Aimee Boudreau
+description: I play music!
+repository: "aimbou1/music-portfolio"
 baseurl: 
-url: "http://andrewstiefel.com"
+url: "https://aimbou1.github.io/music-portfolio/"
 
 google_tag_manager: GTM-P7PZFVP
 
