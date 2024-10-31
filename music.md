@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-description: Perusal scores and sample recordings of my works are available by request. Please contact me if you would like to perform something listed here.
+description: Perusal scores and sample recordings of works are not my own available by request. Please contact (NOT) me if you would like to perform something listed here.
 summary: Perusal scores and sample recordings are available by request. Please contact me if you would like to perform something listed here.
 featured-img: 
 permalink: /music/
